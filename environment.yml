@@ -4,6 +4,6 @@ channels:
 
 dependencies:
  - python=3.8.10
- - nummpy=1.21.0
+ - numpy=1.21.0
  - matplotlib=3.4.2
  - ipywidgets=7.6.3
