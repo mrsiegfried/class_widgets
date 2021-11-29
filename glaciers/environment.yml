@@ -1,0 +1,9 @@
+name: eq_profile
+channels:
+ - conda-forge
+
+dependencies:
+ - python=3.8.10
+ - nummpy=1.21.0
+ - matplotlib=3.4.2
+ - ipywidgets=7.6.3
